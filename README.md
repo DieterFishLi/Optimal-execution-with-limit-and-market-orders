@@ -9,4 +9,4 @@ between LO & MO. This paper provides a nice way to that. Moreover, this paper ta
 
 
 
-I am only a beginner to this algo tading / optimal control. Please do remind me if I make any mistake in repo. Feel free to leave a comment.
+I am only a beginner to algo tading / optimal control. Please do remind me if I make any mistake in repo. Feel free to leave a comment.
