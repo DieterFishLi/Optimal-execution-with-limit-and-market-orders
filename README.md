@@ -14,3 +14,15 @@ I am only a beginner to algo tading / optimal control. Please do remind me if I 
 
 
 ![plot](./mid_price.png)
+
+
+
+
+
+![plot](./price_per_share.png)
+
+
+
+
+
+![plot](./schedule.png)
