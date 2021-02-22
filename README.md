@@ -13,16 +13,15 @@ I am only a beginner to algo tading / optimal control. Please do remind me if I 
 
 
 
-![plot](./mid_price.png)
+![plot1](./mid_price.png)
 
 
 
 
 
-![plot](./price_per_share.png)
+![plot2](./price_per_share.png)
 
 
 
 
-
-![plot](./schedule.png)
+![plot3](./schedule.png)
