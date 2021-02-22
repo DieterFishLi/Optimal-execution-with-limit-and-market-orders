@@ -19,7 +19,7 @@ I am only a beginner to algo tading / optimal control. Please do remind me if I 
 
 
 
-![plot2](./price_per_share.png)
+![plot2](./price_per_share_.png)
 
 
 
