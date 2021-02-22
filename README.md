@@ -4,7 +4,7 @@ The repo is dedicated to reproduce results of the paper 'Optimal execution with 
 
 ÁC and SJ propose an execution policy that tells when to cancel a limit order and submit a market order instead when targeting 
 a given volume schedule, such as Almgren-Chriss or TWAP. According to my experience, the waiting time for the LO to be filled is 
-hard-coded/ predetemined (invariant within the trading horizon). A potential over the above mentioned method is the optimally switch
+hard-coded/ predetemined (invariant within the trading horizon). A potential improvement to the above mentioned method is to optimally switch
 between LO & MO. This paper provides a nice way to that. Moreover, this paper tackles the problem of the depth of LOs.
 
 
