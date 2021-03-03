@@ -1,7 +1,11 @@
 # Optimal-execution-with-limit-and-market-orders
 The repo is dedicated to reproduce results of the paper 'Optimal execution with limit and market orders' written by Álvaro Cartea and Sebastian Jaimungal (https://doi.org/10.1080/14697688.2015.1032543)
 
-![plot4](./pics/inventory_hist.png)
+
+
+<p align="center">
+  <img src=./pics/inventory_hist.png alt="Sublime's custom image"/>
+</p>
 
 ÁC and SJ propose an execution policy that tells when to cancel a limit order and submit a market order instead when targeting 
 a given volume schedule, such as Almgren-Chriss or TWAP. According to my experience, the waiting time for the LO to be filled is 
