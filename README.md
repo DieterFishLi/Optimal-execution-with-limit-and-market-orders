@@ -18,19 +18,16 @@ between LO & MO.
 
 
 <p align="center">
-  <img src=./pics/price_per_share_.png width="300" alt="Cost"/>
+  <img src=./pics/price_per_share_.png width="400" alt="Cost"/>
 </p>
 
 
-This paper provides a nice way to that. Moreover, this paper tackles the problem of the depth of LOs.
-
-
+This paper provides a nice way to that. Moreover, this paper tackles the problem of the depth of LOs. 
 
 I am only a beginner to algo tading / optimal control. Please do remind me if I make any mistake in repo. Feel free to leave a comment.
 
-
-
-![plot3](./pics/schedule.png)
-
+<p align="center">
+  <img src=./pics/schedule.png width="400" alt="schedule"/>
+</p>
 
 
