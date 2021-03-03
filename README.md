@@ -4,7 +4,7 @@ The repo is dedicated to reproduce results of the paper 'Optimal execution with 
 
 
 <p align="center">
-  <img src=./pics/inventory_hist.png width="300" alt="Sublime's custom image"/>
+  <img src=./pics/inventory_hist.png width="300" alt="Inventory"/>
 </p>
 
 ÁC and SJ propose an execution policy that tells when to cancel a limit order and submit a market order instead when targeting 
@@ -12,9 +12,15 @@ a given volume schedule, such as Almgren-Chriss or TWAP. According to my experie
 hard-coded/ predetemined (invariant within the trading horizon). A potential improvement to the above mentioned method is to optimally switch
 between LO & MO.
 
-![plot1](./pics/mid_price.png)
+<p align="center">
+  <img src=./pics/mid_price.png width="600" alt="Price"/>
+</p>
 
-![plot2](./pics/price_per_share_.png)
+
+<p align="center">
+  <img src=./pics/price_per_share_.png width="300" alt="Cost"/>
+</p>
+
 
 This paper provides a nice way to that. Moreover, this paper tackles the problem of the depth of LOs.
 
