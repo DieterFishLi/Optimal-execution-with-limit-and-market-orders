@@ -4,7 +4,7 @@ The repo is dedicated to reproduce results of the paper 'Optimal execution with 
 
 
 <p align="center">
-  <img src=./pics/inventory_hist.png width="100" alt="Sublime's custom image"/>
+  <img src=./pics/inventory_hist.png width="300" alt="Sublime's custom image"/>
 </p>
 
 ÁC and SJ propose an execution policy that tells when to cancel a limit order and submit a market order instead when targeting 
